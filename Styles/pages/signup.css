@@ -1,0 +1,135 @@
+.register_header h3{
+    text-align: center;
+    padding: 25px 0px 26px 0px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.44px;
+    letter-spacing: -0.13px;
+}
+.signup .signup_title {
+text-align: center;
+padding-bottom: 55px;
+}
+.signup{
+    background-color: rgba(244, 247, 250, 1);
+    
+}
+.signup_form form{
+    border-radius: 10px;
+    justify-content: center;
+    gap: 20px;
+    background-color: rgba(255, 255, 255, 1);
+    margin: 0 auto;
+    display: flex;
+    width: 350px;
+    height: 570px;
+    padding: 20px;
+    flex-direction: column;
+}
+.signup_form form input{
+    margin-bottom: 10px;
+    padding: 12px 18px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.signup_form form label{
+    font-weight: 700;
+font-style: 15px;
+line-height: 26px;}
+
+.signup_form form .account{
+    padding: 13px 0px 12px 0px;
+    background-color: var(--bgColor);
+    border-radius: 8px;
+    text-align: center;
+text-decoration: none;
+font-weight: 700;
+font-size: 17px;
+line-height: 32px;
+letter-spacing: -0.6px;
+color: rgba(255, 255, 255, 1);
+}
+.signup_title{
+    padding-top: 125px;
+}
+.signup_title h2{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -2px;
+    
+}
+.signup_title p{
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 32px;
+    letter-spacing: -0.2px;
+} 
+.signup_bottom_title p{
+    font-weight: 400;
+    padding-top: 46px;
+    padding-bottom: 137px;
+    font-size: 17px;
+    line-height: 29px;
+    letter-spacing: -0.2px;
+    text-align: center;
+}
+.signup_bottom_title p span{
+    color: var(--bgColor);
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 101px;
+    padding-top: 122px;
+    padding-bottom: 165px;
+    background-color: rgba(22, 28, 45, 1);
+}
+.footer_brainwave .footer_brainwave_logo h3{
+font-weight: 700;
+font-size: 28px;
+line-height: 33.18px;
+letter-spacing: -0.16p;
+color: rgba(255, 255, 255, 1);
+padding-bottom: 36px;
+
+}
+.footer_brainwave .footer_brainwave_desc{
+    padding-bottom: 44px;
+}
+ .footer_brainwave_desc p{
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+color: rgba(255, 255, 255, 1);
+}
+.footer_brainwave_social .social_list{
+    display: flex;
+    gap: 24px;
+}
+.fa{
+    width: 18px;
+    height: 18px;
+}
+.fa-twitter{
+   color: rgba(104, 213, 133, 1);
+}
+.fa-facebook-f{
+    background-color: rgba(125, 129, 141, 1);
+    color:rgba(22, 28, 45, 1);
+}
+.fa-instagram {
+    color:  rgba(125, 129, 141, 1);
+}
+.fa-linkedin-in{
+    background-color: rgba(125, 129, 141, 1);
+    color: rgba(22, 28, 45, 1);
+}
+.footer_brainwave h4{
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+    color: rgba(255, 255, 255, 1);
+    padding: 20px;
+}
