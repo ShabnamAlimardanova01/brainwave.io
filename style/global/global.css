@@ -1,0 +1,9 @@
+@import url("../global/reset.css");
+@import url("../global/fonts.css");
+@import url("../global/variable.css");
+
+body{
+    font-family: var(--fontRoboto);
+}
+
+
