@@ -1,0 +1,102 @@
+.register-header h3 {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 26px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.login-title h2{
+   text-align: center;
+   font-weight: 700;
+   line-height: 65px;
+   font-size: 60px;
+   color: var(--text-color);
+   padding-bottom: 34px;
+}
+
+.login-title p{
+    text-align: center;
+    font-weight: 400;
+    line-height: 32px;
+    font-size: 19px;
+    color: var(--text-color);
+ }
+
+ .login {
+    padding-top: 125px;
+    background: #F4F7FA;
+    
+ }
+
+ .login-form{
+    padding-top: 55px;
+ }
+
+ .login-form form{
+    display: flex;
+    gap: 21px;
+    flex-direction: column;
+    justify-content: center;
+    width: 350px;
+    height: 373px;
+    border-radius: 10px;
+    margin: 0 auto;
+    box-shadow: 0px 34px 33px -23px #161C2D21;
+    border: 1px solid #E7E9ED;
+    background: #FFFFFF;
+ }
+
+ input[type=password]{
+    margin-bottom: 70px;  
+ }
+/* 
+ input[type=text]{
+    margin-bottom: 21px;  
+ } */
+ .login-form form input{
+    padding: 12px 18px;
+    border-radius: 5px;
+    padding-right: 25px;
+    padding-left: 25px;
+   
+}
+
+.login-form form label{
+    font-weight: 700;
+font-style: 15px;
+line-height: 26px;
+padding-bottom: 7px;
+}
+
+.login-form form .sign-in{
+      padding: 13px 0px 12px 0px;
+     background-color: var(--bg-color);
+     margin-bottom: 31px;
+    border-radius: 8px;
+    text-align: center;
+text-decoration: none;
+font-weight: 700;
+font-size: 17px;
+line-height: 32px;
+letter-spacing: -0.6px;
+color: rgba(255, 255, 255, 1);
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 101px;
+    padding-top: 122px;
+    padding-bottom: 165px;
+    background-color: rgba(22, 28, 45, 1);
+}
+.footer_brainwave .footer_brainwave_logo h3{
+font-weight: 700;
+font-size: 28px;
+line-height: 33.18px;
+letter-spacing: -0.16p;
+color: rgba(255, 255, 255, 1);
+padding-bottom: 36px;
+
+}
