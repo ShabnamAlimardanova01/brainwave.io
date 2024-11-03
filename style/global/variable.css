@@ -1,3 +1,15 @@
+ signup-branch
+:root{
+    --fontFamily:"Roboto", serif;
+
+    /* colors */
+    --bgColor:rgba(71, 59, 240, 1);
+
+    /* fontColor */
+    --textColor:rgba(22, 28, 45, 1);
+    
+}
+=======
 :root {
     /* COLORS */
     --bg-color: #473BF0;
@@ -10,3 +22,4 @@
 
  
   
+ main
